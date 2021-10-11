@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alyssagcoelho@gmail.com
+	name = Alyssa Coelho
